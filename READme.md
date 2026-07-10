@@ -27,26 +27,6 @@ Developed a machine learning model to predict the presence of heart disease usin
 * Scikit-learn
 * OpenPyXL
 
-## Repository Structure
-
-Machine-Learning-Projects/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── Part_A/
-│   ├── Part_A_Property_Price_Prediction.ipynb
-│   └── Part_A_Property_Price_Prediction_data_file.xlsx
-│
-├── Part_B/
-│   ├── Part_B_Customer_Churn_Prediction.ipynb
-│   └── Part_B_Customer_Churn_data.xlsx
-│
-└── Part_C/
-    ├── Part_C_Early_Disease_Detection.ipynb
-    └── Part_C_Heart_Disease_data.xlsx
-
 ## Features
 
 * Data Cleaning and Preprocessing
